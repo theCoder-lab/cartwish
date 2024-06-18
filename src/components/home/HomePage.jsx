@@ -9,14 +9,14 @@ const HomePage = () => {
       <HeroSection
         title="Buy Iphone 14 Pro"
         subtitle="Experience the power of the latest iphine 14 with our most pro camera ever."
-        link="/product/6600f0ed7903eb92af6c9f21"
+        link="https://cartwish10.netlify.app/product/66717149686893497186a5ee"
         image={iphone}
       />
       <FeaturedProduct />
       <HeroSection
         title="Build the ultimate setup"
         subtitle="You can add studio display and color-mached ,agic accosssories to yor bag after configure your Mac mini."
-        link="/product/6600f0ed7903eb92af6c9f2d"
+        link="https://cartwish10.netlify.app/product/66717149686893497186a5fa"
         image={mac}
       />
     </div>
