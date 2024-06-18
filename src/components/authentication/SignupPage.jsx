@@ -49,7 +49,7 @@ const SignupPage = () => {
       }
     }
   };
-  if (getUser) {
+  if (!getUser) {
     return <Navigate to="/" />;
   }
   return (
